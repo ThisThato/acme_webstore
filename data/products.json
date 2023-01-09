@@ -1,0 +1,134 @@
+{
+  "categories": {
+    "electronics": {
+      "appliances": {
+        "customerType": "allClients",
+        "items": [
+          {
+            "name": "TV",
+            "price": 0,
+            "description": ""
+          },
+          {
+            "name": "Fridge",
+            "price": 0,
+            "description": ""
+          },
+          {
+            "name": "Microwave",
+            "price": 0,
+            "description": ""
+          },
+          {
+            "name": "Stove",
+            "price": 0,
+            "description": ""
+          },
+          {
+
+            "name": "Toaster",
+            "price": 0,
+            "description": ""
+          }
+        ]
+      },
+      "gaming": {
+        "customerType": "administrator",
+        "items": [
+          {
+            "name": "Mouse",
+            "price": 0,
+            "description": ""
+          },
+          {
+            "name": "Keyboard",
+            "price": 0,
+            "description": ""
+          },
+          {
+            "name": "Console",
+            "price": 0,
+            "description": ""
+          }
+        ]
+      },
+      "gadgets": {
+        "customerType": "administrator",
+        "items": []
+      }
+    },
+    "sport": {
+      "id": 2,
+      "clothing": {
+        "customerType": "administrator",
+        "items": [
+          {
+            "name": "T-Shirt",
+            "price": 0,
+            "description": ""
+          },
+          {
+            "name": "Socks",
+            "price": 0,
+            "description": ""
+          },
+          {
+            "name": "Jogger",
+            "price": 0,
+            "description": ""
+          },
+          {
+            "name": "Jacket",
+            "price": 0,
+            "description": ""
+          }
+        ]
+      },
+      "footwear": {
+        "customerType": "allClients",
+        "items": [
+          {
+            "name": "Runners",
+            "price": 0,
+            "description": ""
+          },
+          {
+            "name": "Trail shoes",
+            "price": 0,
+            "description": ""
+          },
+          {
+            "name": "Golf shoes",
+            "price": 0,
+            "description": ""
+          },
+          {
+            "name": "Cycling shoes",
+            "price": 0,
+            "description": ""
+          }
+        ]
+      },
+      "cycling": {
+        "customerType": "allClients",
+        "items": [
+          {
+            "name": "Cycling shoes",
+            "price": 0,
+            "description": ""
+          }
+        ]
+      },
+      "golf": {
+        "customerType": "allClients",
+        "items": [
+          {
+            "name": "Golf shoes",
+            "price": 0,
+            "description": ""
+          }
+        ]
+      }
+    }
+  }
+}
